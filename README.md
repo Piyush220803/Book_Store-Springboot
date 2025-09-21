@@ -19,7 +19,7 @@ A modern Spring Boot web application for managing books, featuring a beautiful i
 
 | Available Books                                                      | Book Register                                                      | Edit Book                                                      | My Books                                                      |
 | -------------------------------------------------------------------- | ------------------------------------------------------------------ | -------------------------------------------------------------- | ------------------------------------------------------------- |
-| ![Available Books](screenshots/Screenshot/avaiable-book.png) | ![Book Register](screenshots/Screenshot/add-book.png) | ![Edit Book](screenshots/Screenshot/home.png) | ![My Books](screenshots/Screenshot/my-book.png) |
+| ![Available Books](screenshots/avaiable-book) | ![Book Register](screenshots/add-book) | ![Edit Book](screenshots/home) | ![My Books](screenshots/my-book) |
 
 ---
 
@@ -79,7 +79,7 @@ bookStore/
 
 ## 👤 Contributors
 
-- Piyush Pandey
+- [Piyush Pandey](httpps://piyush.engineer)
 
 ---
 
