@@ -14,17 +14,12 @@ A modern Spring Boot web application for managing books, featuring a beautiful i
 
 ---
 
-## 🖼️ Screenshot
-
-> ![BookStore Screenshot](screenshots/bookstore-ui.png)
-
-_Add your screenshot to the `screenshots/` folder and update the filename above if needed._
 
 ## 🖼️ Screenshot Gallery
 
 | Available Books                                                      | Book Register                                                      | Edit Book                                                      | My Books                                                      |
 | -------------------------------------------------------------------- | ------------------------------------------------------------------ | -------------------------------------------------------------- | ------------------------------------------------------------- |
-| ![Available Books](screenshots/Screenshot%202025-09-22%20012506.png) | ![Book Register](screenshots/Screenshot%202025-09-22%20012516.png) | ![Edit Book](screenshots/Screenshot%202025-09-22%20012530.png) | ![My Books](screenshots/Screenshot%202025-09-22%20012542.png) |
+| ![Available Books](screenshots/Screenshot/avaiable-book.png) | ![Book Register](screenshots/Screenshot/add-book.png) | ![Edit Book](screenshots/Screenshot/home.png) | ![My Books](screenshots/Screenshot/my-book.png) |
 
 ---
 
