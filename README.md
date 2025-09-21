@@ -79,7 +79,7 @@ bookStore/
 
 ## 👤 Contributors
 
-- [Piyush Pandey](httpps://piyush.engineer)
+[Piyush Pandey](https://piyush.engineer)
 
 ---
 
